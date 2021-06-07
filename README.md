@@ -1,4 +1,4 @@
-<h1>****Server Side****</h1>
+<h1>----Server Side----</h1>
 <h3>
 Made with:<br>
 </h3>
